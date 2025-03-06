@@ -1,6 +1,6 @@
 # 📈 Stock Price AI Bot
 
-A **Streamlit-based AI-powered stock analysis bot** that provides **real-time stock data, performance insights, risk analysis, and AI-powered market analysis**.
+A Streamlit-based AI-powered stock analysis bot that provides real-time stock data, performance insights, risk analysis, and AI-powered market analysis.
 
 ## 🚀 Features
 - ✅ **Stock Data Visualization**: Line and area charts for selected stocks.
